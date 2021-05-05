@@ -1,0 +1,27 @@
+For Visual Code
+
+Start application
+		- Open terminal
+		- npm start
+start BackEnd server
+		- install Json server
+			- npm i json-server
+		- Add script in the package.json
+			-  "server": "json-server --watch db.json --port 5000"           -- Add in the Scripts
+		- run the server
+			- npm run server
+
+Routing
+		- npm i react-router-dom
+
+
+
+
+-------------------------------------------------------------------------
+Helpful Shortcuts
+
+rafce 
+	- arrow function to return with export
+
+impt 
+	- Import propTypes 
